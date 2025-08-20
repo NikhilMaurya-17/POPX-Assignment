@@ -1,7 +1,7 @@
 import "../src/App.css";
-import Home  from "./components/Home/Home";
+import Home  from "./components/Home/home";
 import Profile from "./components/Profile/profile";
-import SignIn from "./components/SignIn/SignIn";
+import SignIn from "./components/SignIn/signIn";
 import SignUp from "./components/SignUp/signup";
 import {
   Route,
